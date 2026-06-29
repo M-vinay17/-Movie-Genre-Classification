@@ -1,8 +1,7 @@
 # 🎬 Movie Genre Classification
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
 This project aims to classify movie genres based on their plot summaries using machine learning techniques. The dataset used for this project is the IMDb Movie Dataset, which contains information about movies including their titles, genres, and plot summaries.
 
@@ -94,11 +93,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👤 Author
 
